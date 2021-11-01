@@ -1,8 +1,9 @@
-### 自分用 Next.js テンプレート
+### next.js-ts-sass-storybook
 
-個人開発で利用する Next.js テンプレートリポジトリです。  
-hygen でコンポーネント/テスト/storybook/スタイルファイルを一気に生成できる所がお気に入りです:penguin:
+Qiita の記事用に作成したリポジトリ
 
 ```
-$npx hygen component new
+$npm i
+$npm run dev
+$npm run storybook
 ```
